@@ -1,0 +1,21 @@
+MLFLOW Components
+-----------------
+* MLFlow Tracking
+  Records and query experiments: code, data, config and results
+* MLFlow Projects
+  Package data science code in a format that enables reproducible runs on many platforms
+* MLFlow Models
+  Deploy Machine learning models in diverse serving environments
+* MLFlow Model Registry
+  Store, annotate and manage modelsin a central repository
+-------------------------------------------------------------
+Key Components of MLFlow Tracking
+-------------------------------------------------------------
+* Parameters : Key-Value inputs to your code
+* Metrics : Numeric Values(can update overtime)
+* Tag and Notes: Information about runs
+* Artificats: Files, data, models
+* Source : What code Ran ?
+* Version : What of the Code?
+* Run: An instance of the code that runs by MLFlow
+* Experiments: {Run, Run}
