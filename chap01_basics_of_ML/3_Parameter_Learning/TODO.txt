@@ -1,0 +1,2 @@
+# Understanding different convergence/parameter learning algorithm is important. below is the link to study them
+  https://youtu.be/IU5fuoYBTAM?si=mxNtBhRbs3PCdiYJ
